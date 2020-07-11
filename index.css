@@ -1,0 +1,83 @@
+.image-fluid{
+  width: 70%;
+  height: 300px;
+}
+h2{
+  font-family: "Varela";
+}
+h4{
+  font-family: Cairo;
+  font-size:25px;
+}
+
+body{
+  background-image:linear-gradient(#ffffff,#ab6f4f);
+}
+p{
+  font-family: Cairo;
+}
+h5{
+  font-family: Varela;
+}
+.bgm{
+  background-color: #ffffff;
+}
+.bcm{
+  background-color:linear gradient(#ffffff,#c1baa4);
+}
+.text{
+  color: #104747;
+}
+.text-infos{
+  height: 320px;
+}
+.block{
+  color: #c1baa4;
+  height: 145px;
+}
+body{
+  background-image: linear gradient(#ffffff,#c1baa4);
+}
+.text{
+  color: #c1baa4;
+}
+.temon:hover{
+     background-color:#c1baa4;
+}
+p{
+  font-family: Varela;
+
+}
+.bcym{
+  background-color:#403939;
+}
+.text-light{
+  font-family:Varela;
+  font-size:280px;
+  font-size: 24px;
+}
+.text-edit{
+  color: #ffffff;
+  font-family: Varela;
+  font-size: 45px;
+}
+.bgmp{
+  background-color: #ffffff;
+}
+.boot{
+  background-color: linear gradient(#ffffff,#c1baa4);
+}
+.sap{
+  text-decoration: underline;
+}
+
+H1{
+  font-weight: 1000px;
+  font-family: Varela;
+  
+}
+
+H1:hover{
+  background-color: #ffffff;
+
+}
